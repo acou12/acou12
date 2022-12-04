@@ -1,3 +1,3 @@
 ### woah svg animations
 
-![multicolored squares rotating at slightly different rates](/test.svg)
+<img alt="multicolored squares rotating at slightly different rates" src="/test.svg" width="300px" height="300px" />
