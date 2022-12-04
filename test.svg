@@ -1,0 +1,203 @@
+<svg viewBox="-5 -5 20 20" xmlns="http://www.w3.org/2000/svg" width="100px" height="100px">
+  <rect x="0" y="0" width="10" height="10" transform-origin="5 5" fill="#ff0000">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="10s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="0.25" y="0.25" width="9.5" height="9.5" transform-origin="5 5" fill="#ff9900">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="11s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="0.5" y="0.5" width="9" height="9" transform-origin="5 5" fill="#ccff00">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="12s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="0.75" y="0.75" width="8.5" height="8.5" transform-origin="5 5" fill="#33ff00">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="13s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="1" y="1" width="8" height="8" transform-origin="5 5" fill="#00ff66">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="14s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="1.25" y="1.25" width="7.5" height="7.5" transform-origin="5 5" fill="#00ffff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="15s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="1.5" y="1.5" width="7" height="7" transform-origin="5 5" fill="#0066ff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="16s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="1.75" y="1.75" width="6.5" height="6.5" transform-origin="5 5" fill="#3300ff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="17s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="2" y="2" width="6" height="6" transform-origin="5 5" fill="#cc00ff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="18s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="2.25" y="2.25" width="5.5" height="5.5" transform-origin="5 5" fill="#ff0099">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="19s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="2.5" y="2.5" width="5" height="5" transform-origin="5 5" fill="#ff0000">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="20s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="2.75" y="2.75" width="4.5" height="4.5" transform-origin="5 5" fill="#ff9900">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="21s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="3" y="3" width="4" height="4" transform-origin="5 5" fill="#ccff00">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="22s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="3.25" y="3.25" width="3.5" height="3.5" transform-origin="5 5" fill="#33ff00">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="23s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="3.5" y="3.5" width="3" height="3" transform-origin="5 5" fill="#00ff66">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="24s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="3.75" y="3.75" width="2.5" height="2.5" transform-origin="5 5" fill="#00ffff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="25s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="4" y="4" width="2" height="2" transform-origin="5 5" fill="#0066ff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="26s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="4.25" y="4.25" width="1.5" height="1.5" transform-origin="5 5" fill="#3300ff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="27s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="4.5" y="4.5" width="1" height="1" transform-origin="5 5" fill="#cc00ff">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="28s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="4.75" y="4.75" width="0.5" height="0.5" transform-origin="5 5" fill="#ff0099">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="29s"
+      repeatCount="indefinite" />
+  </rect>
+
+</svg>
